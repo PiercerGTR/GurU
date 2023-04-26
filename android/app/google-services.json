@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461801259493",
+    "project_id": "clone-pyro",
+    "storage_bucket": "clone-pyro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461801259493:android:7efd0806ef4976a02bef0c",
+        "android_client_info": {
+          "package_name": "com.example.clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461801259493-lcrg0t51s8gfeuh427lf12kcgg0i5875.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYeD4gxH1PIpfyxZUIvu6T7s10qbRykQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461801259493-lcrg0t51s8gfeuh427lf12kcgg0i5875.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
